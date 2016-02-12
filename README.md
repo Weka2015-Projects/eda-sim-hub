@@ -14,7 +14,10 @@ Links
 
 Team Assignments
 ----------------
-Nilu - Database API, Redux, Reducer Testing
+Nilu
+-Database API
+-Redux
+-Reducer Testing
 Irene - React, React Component Testing, Design
 Aaron - Git Master, Code Reviews, System Design
 
