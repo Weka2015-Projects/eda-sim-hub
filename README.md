@@ -52,9 +52,9 @@ Learning Objectives
 
 Workflow (Daily)
 --------
-1. Task assignment with clear deliverables (discrete modules)
+1. Task assignment with clear deliverables of discrete modules
 2. Daily code review for completed modules
 3. Reviewed Modules as a group
 4. Pull request with passing tests for Merge
-5. Reasses learning objectives
+5. Reasses learning objectives (Standup)
 
