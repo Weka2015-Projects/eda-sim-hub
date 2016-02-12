@@ -14,43 +14,38 @@ Links
 
 Team Assignments
 ================
-Nilu
-----
+####Nilu
 * Database API
 * Redux
 * Reducer Testing
 
-###Irene
+####Irene
 * React
 * React Component
 * Testing
 * Design
 
-Aaron
------
+####Aaron
 * Git Master
 * Code Reviews
 * System Design
 
 Learning Objectives
 -------------------
-Nilu
-----
+####Nilu
 * Redux
 * Immutable.js
 * Enzyme
 * SASS
 
-##Irene
-
+####Irene
 * React
 * Enzyme
 * Redux
 * SASS
 * Webpack
 
-Aaron
------
+####Aaron
 * Project Management
 * System Design
 * Mentorship
