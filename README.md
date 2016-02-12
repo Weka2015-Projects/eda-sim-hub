@@ -41,8 +41,8 @@ Nilu
 * Enzyme
 * SASS
 
-Irene
------
+##Irene
+
 * React
 * Enzyme
 * Redux
