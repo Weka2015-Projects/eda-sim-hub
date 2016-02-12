@@ -35,7 +35,24 @@ Aaron
 
 Learning Objectives
 -------------------
-Nilu - Redux, Immutable.js, Enzyme, SASS
-Irene - React, Enzyme, Redux, SASS, Webpack
-Aaron - Project Management, System Design, Mentorship
+Nilu
+----
+* Redux
+* Immutable.js
+* Enzyme
+* SASS
+
+Irene
+-----
+* React
+* Enzyme
+* Redux
+* SASS
+* Webpack
+
+Aaron
+-----
+* Project Management
+* System Design
+* Mentorship
 
