@@ -13,13 +13,23 @@ Links
 [Server] (https://github.com/Weka2015-Projects/eda-sim-server)
 
 Team Assignments
-----------------
+================
 Nilu
+----
 * Database API
 * Redux
 * Reducer Testing
-Irene - React, React Component Testing, Design
-Aaron - Git Master, Code Reviews, System Design
+Irene
+-----
+* React
+* React Component
+* Testing
+* Design
+Aaron
+-----
+* Git Master
+* Code Reviews
+* System Design
 
 Learning Objectives
 -------------------
