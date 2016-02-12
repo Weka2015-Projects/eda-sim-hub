@@ -52,7 +52,6 @@ Learning Objectives
 
 Workflow
 --------
-Daily cycle:
 1. Task assignment with clear deliverables (discrete modules)
 2. Daily code review for completed modules
 3. Reviewed Modules as a group
