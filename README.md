@@ -50,7 +50,7 @@ Learning Objectives
 * System Design
 * Mentorship
 
-Workflow
+Workflow (Daily)
 --------
 1. Task assignment with clear deliverables (discrete modules)
 2. Daily code review for completed modules
