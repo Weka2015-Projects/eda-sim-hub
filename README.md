@@ -8,9 +8,9 @@ EDA Sim is thematic resource management game that approximates an exaggerated li
 
 Links
 -----
-[Waffle] (https://waffle.io/Weka2015-Projects/eda-sim-server)
-[Client] (https://github.com/Weka2015-Projects/eda-sim-front)
-[Server] (https://github.com/Weka2015-Projects/eda-sim-server)
+- [Waffle] (https://waffle.io/Weka2015-Projects/eda-sim-server)
+- [Client] (https://github.com/Weka2015-Projects/eda-sim-front)
+- [Server] (https://github.com/Weka2015-Projects/eda-sim-server)
 
 Team Assignments
 ================
