@@ -58,3 +58,5 @@ Workflow (Daily)
 4. Pull request with passing tests for Merge
 5. Reasses learning objectives (Standup)
 
+[MVP] (mvp.md)
+-----
