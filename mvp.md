@@ -7,4 +7,4 @@ Our MVP is a working text based game with minimal effort put into the game desig
 3. Basic game cycle and progression.
 4. Well tested components and reducers.
 
-Essentially acting as a skeleton to build around and add features.
+This version is the robust and functional skeleton to build off of.
